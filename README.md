@@ -2,7 +2,6 @@
  
 This simple app presents lyrics using SwiftUI.
 
-![](https://github.com/Venera-Ko/Lyrics-SwiftUI/blob/main/Screenshot1.png)
-![](https://github.com/Venera-Ko/Lyrics-SwiftUI/blob/main/Screenshot2.png)
-
-
+<p>
+<img src="https://github.com/Venera-Ko/Lyrics-SwiftUI/blob/main/Screenshot1.png" width="3000"> <img src="https://github.com/Venera-Ko/Lyrics-SwiftUI/blob/main/Screenshot2.png" width="300">
+</p>
